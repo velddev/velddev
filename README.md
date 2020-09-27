@@ -3,4 +3,10 @@
 
 Take a good look around, there's a lot to explore. However there's some great stuff I've worked at!
 
-![](https://media2.giphy.com/media/lgcUUCXgC8mEo/200.gif)
+### Find me here
+<a href="https://twitter.com/velddev" float="left">
+  <img src="https://cdn.miki.bot/github/velddev/twitter.png" width="32"></img>
+</a>
+<a href="https://medium.com/@velddev" float="left">
+  <img src="https://cdn.miki.bot/github/velddev/medium.png" width="32"></img>
+</a>
