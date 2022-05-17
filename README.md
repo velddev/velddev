@@ -3,8 +3,6 @@
 
 Take a good look around, there's a lot to explore. However there's some great stuff I've worked at!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=velddev&layout=compact&langs_count=10)
-
 ### Find me here
 <span>
   <a href="https://twitter.com/velddev">
